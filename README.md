@@ -1,6 +1,7 @@
-# Asteroids Game by JoKausch and Clode-Code 0.1.11-beta
+Asteroids Game by JoKausch and Clode-Code 0.1.11-beta
 
-A modern implementation of the classic arcade game Asteroids, built with Processing and Java. Navigate through space, shoot asteroids, and survive as long as possible!
+A simple modern implementation of the classic arcade game Asteroids, built with Processing and Java. Navigate through space, shoot asteroids, and survive as long as possible!
+Mainly a template how to use the Processing library within VS Code or intelliJ when you do not want to use the Processing IDE
 
 ## Game Features
 
@@ -69,4 +70,5 @@ Make sure to include the following sound files in a `snd/` directory:
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
 
