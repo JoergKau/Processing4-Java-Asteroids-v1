@@ -37,8 +37,12 @@ A modern implementation of the classic arcade game Asteroids, built with Process
 
 ## Requirements
 
-- Java Development Kit (JDK) 11 or later
-- Processing 4.0 or later
+- Java Development Kit (JDK) 17 (current Processing Version 4.4.8 is build upon JDK 17)
+- install Processing 4 from https://processing.org
+- This project is not using the Processing IDE but VS Code or IntelliJ.
+- Ensure Processing core library is added to the project (come along with the Processing app)
+- of today this is "core-4.4.8.jar"
+
 
 ## Running the Game
 
@@ -65,3 +69,4 @@ Make sure to include the following sound files in a `snd/` directory:
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
